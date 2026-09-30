@@ -42,7 +42,7 @@ class _PortfolioHomeState extends State<PortfolioHome> {
   final GlobalKey contactKey = GlobalKey();
 
   static const String resumeUrl =
-      'https://drive.google.com/file/d/1ZHWtbBYuMtORmthBrzd38aBC-9OctMau/view?usp=drive_link';
+      'https://drive.google.com/file/d/1AcVljjK6FYHQYNGXuntU6Pe1WwWE61Sg/view?usp=drive_link';
 
   static const String githubUrl =
       'https://github.com/nurjahansnm';
